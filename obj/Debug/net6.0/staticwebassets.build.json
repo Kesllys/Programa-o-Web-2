@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cnKIVw02Bz/gv+JdAvXNtLedawyArk97LVlt2uN5mVM=",
+  "Hash": "WfsQBLgZaGEddoDLBB0sGAM1oN8mRkUN4RH/cnxUWTc=",
   "Source": "Exercicios",
   "BasePath": "_content/Exercicios",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\img\\partida.jpg"
     },
     {
+      "Identity": "C:\\Users\\etec\\Desktop\\Programa-o-Web-2\\wwwroot\\img\\pedido.jpg",
+      "SourceId": "Exercicios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\Programa-o-Web-2\\wwwroot\\",
+      "BasePath": "_content/Exercicios",
+      "RelativePath": "img/pedido.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\pedido.jpg"
+    },
+    {
       "Identity": "C:\\Users\\etec\\Desktop\\Programa-o-Web-2\\wwwroot\\img\\salario.jpg",
       "SourceId": "Exercicios",
       "SourceType": "Discovered",
@@ -202,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\sem-foto.png"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\Programa-o-Web-2\\wwwroot\\img\\tabuada.jpg",
+      "SourceId": "Exercicios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\Programa-o-Web-2\\wwwroot\\",
+      "BasePath": "_content/Exercicios",
+      "RelativePath": "img/tabuada.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tabuada.jpg"
     },
     {
       "Identity": "C:\\Users\\etec\\Desktop\\Programa-o-Web-2\\wwwroot\\js\\site.js",

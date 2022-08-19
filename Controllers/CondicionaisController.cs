@@ -20,10 +20,9 @@ namespace Exercicios.Controllers
         }
 
         [HttpPost]
-
-        public IActionResult CondicionalIf(Partida p)
+        public IActionResult CondicionalIf(Partida partida)
         {
-            return View(p);
+            return View(partida);
         }
 
         [HttpGet]
@@ -31,6 +30,28 @@ namespace Exercicios.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+	    public IActionResult CondicionalSwitch(Pedido pedido)
+	    {
+		    return View(pedido);
+	    }
+
+        [HttpGet]
+        public IActionResult RepeticaoDo()
+        {
+            return View();
+        }
+
+        	[HttpPost]
+        public IActionResult RepeticaoDo(Tabuada tabuada)
+        {
+            tabuada.Tipo = TipoOperador.Repeat;
+            tabuada.Calcular();
+            return View(tabuada);
+        }
+
+
 
     }
     
